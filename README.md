@@ -27,7 +27,7 @@ envkey: string = "AAAAAAAAAAAA" # <-- TO EDIT
 
 With that being done, you can run `encrypt.nim`.
 
-```
+```nim
 $> nim r ./encrypt.nim
 ```
 
